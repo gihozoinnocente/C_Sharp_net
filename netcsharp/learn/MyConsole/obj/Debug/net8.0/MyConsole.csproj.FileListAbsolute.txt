@@ -1,0 +1,14 @@
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/bin/Debug/net8.0/MyConsole
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/bin/Debug/net8.0/MyConsole.deps.json
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/bin/Debug/net8.0/MyConsole.runtimeconfig.json
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/bin/Debug/net8.0/MyConsole.dll
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/bin/Debug/net8.0/MyConsole.pdb
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.AssemblyInfoInputs.cache
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.AssemblyInfo.cs
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.csproj.CoreCompileInputs.cache
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.dll
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/refint/MyConsole.dll
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.pdb
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/MyConsole.genruntimeconfig.cache
+/Users/gihozoinnocente/Documents/Unguka/netcsharp/learn/MyConsole/obj/Debug/net8.0/ref/MyConsole.dll
